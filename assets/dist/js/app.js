@@ -1,0 +1,1 @@
+$(document).ready(function(){console.log("This is custom js file of portable programmer project."),alert("Ajay Singh")}),$(document).ready(function(){console.log("Welcome to Portable Programmer"),alert("Hello Word!")});

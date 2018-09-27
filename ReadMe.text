@@ -1,13 +1,17 @@
 node package manager initilze : npm init
 Gulp initilze : npm gulp --save-dev
 Task Run : gulp TaksName
-
-
-
 ----------------------------------------------------------------------------
 Package.json file lists the Packagees that your project depends on.
+-------------------------------------------------------------------
+
+Plugins (Gulp is totaly plugins base)
+1. Sass : npm install gulp-sass --save-dev
+2. Minification : npm install gulp-uglify --save-dev
+3 Js file concatination : npm install gulp-concat --save-dev
 
 
+//HELP
 https://www.youtube.com/watch?v=OwxEm50Zmqw&index=4&list=PLJ_8StqLhtFFqxUv7U8HHCd-t__Fz5APZ
 
 
