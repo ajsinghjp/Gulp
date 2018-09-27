@@ -1,0 +1,22 @@
+{
+  "name": "portable-pragrammer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajsinghjp/Gulp.git"
+  },
+  "author": "Portable Programmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajsinghjp/Gulp/issues"
+  },
+  "homepage": "https://github.com/ajsinghjp/Gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

@@ -1,0 +1,14 @@
+node package manager initilze : npm init
+Gulp initilze : npm gulp --save-dev
+Task Run : gulp TaksName
+
+
+
+----------------------------------------------------------------------------
+Package.json file lists the Packagees that your project depends on.
+
+
+https://www.youtube.com/watch?v=OwxEm50Zmqw&index=4&list=PLJ_8StqLhtFFqxUv7U8HHCd-t__Fz5APZ
+
+
+ajay
