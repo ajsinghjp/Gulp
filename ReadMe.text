@@ -1,6 +1,10 @@
-node package manager initilze : npm init
-Gulp initilze : npm gulp --save-dev
-Task Run : gulp TaksName
+1. npm rm gulp -g
+2. npm install gulp-cli -g
+
+-- In our  Proeject Folder where u work--
+1. node package manager initilze : npm init for generate package.json file
+2. Gulp initilze : npm install gulp --save-d
+3. Task Run : gulp TaksName
 ----------------------------------------------------------------------------
 Package.json file lists the Packagees that your project depends on.
 -------------------------------------------------------------------
@@ -9,6 +13,11 @@ Plugins (Gulp is totaly plugins base)
 1. Sass : npm install gulp-sass --save-dev
 2. Minification : npm install gulp-uglify --save-dev
 3 Js file concatination : npm install gulp-concat --save-dev
+4. Browser-sync : npm install browser-sync --save-dev
+
+----------------------------------------------------------------------------
+
+Gulp task auto run :- use watch function
 
 
 //HELP
